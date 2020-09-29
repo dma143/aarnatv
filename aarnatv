@@ -9,3 +9,13 @@ https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?h
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_270p/index_dvr.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_144p/index_dvr.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_216p/index_dvr.m3u8
+#EXTINF:-1 ,ZEE CLASSIC Aarna
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_4.m3u8
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_3.m3u8
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_1.m3u8
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_2.m3u8
+#EXTINF:-1 ,MASTII Aarna
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_240p/index.m3u8
+#EXTINF:-1 ,DD SAHYADRI Aarna
+https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in_360p/index.m3u8
+#EXTINF:-1 ,DD SAHYADRI Aarna
