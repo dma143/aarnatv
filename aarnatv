@@ -1,21 +1,246 @@
 #EXTM3U
-#EXTINF:-1 ,Zee Marathi Aarna
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/exp=1601477537~acl=%2f*~data=hdntl~hmac=60e80f46896a05b0b7771e0b59e7105298a9d0c70ff6f728d0b89bef87d4fe26/index_24.m3u8
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1601389412~exp=1601392412~acl=/*~hmac=bdac57f3abc3e696ca74b333b203ff1d2bd256818240a9db549acfc6553aa64b
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/exp=1601475679~acl=%2f*~data=hdntl~hmac=24579dc71c597676c2def6875509671568f2a6f3c2e12a83bbd89fbc020e3d59/index_24.m3u8
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/exp=1601475679~acl=%2f*~data=hdntl~hmac=24579dc71c597676c2def6875509671568f2a6f3c2e12a83bbd89fbc020e3d59/index_18.m3u8
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1601387764~exp=1601390764~acl=/*~hmac=adc4f48181c8717fe21a06d810ec98904115e9bff46bacbe9c5dca8442bed354
-#EXTINF:-1 ,sony Aarna
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_270p/index_dvr.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_144p/index_dvr.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_216p/index_dvr.m3u8
-#EXTINF:-1 ,ZEE CLASSIC Aarna
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_4.m3u8
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_3.m3u8
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_1.m3u8
-https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601480314~acl=%2f*~data=hdntl~hmac=30b84d3b25630423d670b49862f442faa0ea3bda5baf78612d509c8f2ad3aa08/index_2.m3u8
-#EXTINF:-1 ,MASTII Aarna
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_240p/index.m3u8
-#EXTINF:-1 ,DD SAHYADRI Aarna
+
+#EXTINF:-1 ,Zee Marathi Aarna TV
+https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/exp=1601533398~acl=%2f*~data=hdntl~hmac=a6005cd03fe907efc8a2859c9f56a6508605decb576338a47b123f3032a95122/index_24.m3u8
+
+
+
+
+#EXTINF:-1 ,MARATHI NEWS SAAM TV Aarna TV
+https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in_240p/index.m3u8
+
+
+
+#EXTINF:-1 ,MARATHI NEWS ABP MAJHA Aarna TV
+https://yuppmsleumo2.akamaized.net/hls/live/2008776/abpmajhaweb/abpmajhaweb/abpmajha_200/chunklist.m3u8?hdntl=exp=1601535940~acl=!*/2008776/abpmajhaweb/*!/payload/yuppTVCom_5_-1_82bae7d760f042d9_DE_62.171.128.115/*~data=hdntl~hmac=061aa77f0c4f24271697c74fe5201e5765c604b488a79b842e20c80bbb59af63
+
+
+#EXTINF:-1 ,MARATHI NEWS DD SAHYADRI Aarna TV
 https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in_360p/index.m3u8
-#EXTINF:-1 ,DD SAHYADRI Aarna
+
+#EXTINF:-1 ,MARATHI NEWS ZEE 24 TAAS Aarna TV
+https://z5live1media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-I/dbca569e-cd39-4b19-ab76-03f1294d7cba/1.m3u8
+
+
+
+#EXTINF:-1 ,MARATHI MOVIES SHEMAROO MARATHI Aarna TV
+https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in_240p/index.m3u8
+
+
+
+#EXTINF:-1 ,MARATHI MUSIC 9X JHAKAAS Aarna TV
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_240p/index.m3u8
+
+
+#EXTINF:-1 ,MARATHI SANGEET MARATHI Aarna TV
+https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in_240p/index.m3u8
+
+
+
+
+
+#EXTINF:-1 ,MARATHI MAYBOLI Aarna TV
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_240p/index.m3u8
+
+#EXTINF:-1 ,sony Aarna TV
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_216p/index_dvr.m3u8
+
+
+
+
+#EXTINF:-1 ,SAB TV Aarna TV
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_216p/index_dvr.m3u8
+
+
+
+
+#EXTINF:-1 ,DD NEWS Aarna TV
+https://z5ams.akamaized.net/out/v1/bf586d4a6d244818a6d2ce602a7fa49f/exp=1601535462~acl=%2f*~data=hdntl~hmac=82d8af13b61ff6a6ce63519c122b44e0fd8650e64c71b36c94022320e6d34594/index_3.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI NEWS  NEWS24 Aarna TV
+https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/695a1134-fb07-439b-b199-d23d4b394326/1.m3u8
+
+
+#EXTINF:-1 ,BBC NEWS Aarna TV
+https://z5ams.akamaized.net/out/v1/9f144d2623894846a14e3c74182cbcf0/exp=1601535602~acl=%2f*~data=hdntl~hmac=d37904f8d4f43663fb396a879cff065bc7a0269c5dc277a2d7aecc013b3b5d9d/index_7.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI NEWS  INDIA TV Aarna TV
+https://yuppmslukmo.akamaized.net/hls/live/2007562/indiatv/indiatv/indiatv_200/chunklist.m3u8?hdntl=exp=1601536041~acl=!*/indiatv/indiatv/*!/payload/yuppTVCom_5_-1_09b476c540514de1_DE_62.171.128.115/*~data=hdntl~hmac=4b7dc6389bad7071c680c47952c37873856de8fdfd4143bcc0dcf1723a273631
+
+
+
+
+#EXTINF:-1 ,HINDI NEWS  NDTV HINDI Aarna TV
+https://yuppmsleumo2.akamaized.net/hls/live/2008775/ndtvhindiweb/ndtvhindiweb/ndtvhindi_200/chunklist.m3u8?hdntl=exp=1601536092~acl=!*/2008775/ndtvhindiweb/*!/payload/yuppTVCom_5_-1_c68d332fa4b54b2e_DE_62.171.128.115/*~data=hdntl~hmac=6d10d5e0e2a851b2b64589e4d3cf2762d485729e9900d639a0c295f72fabf1d0
+
+
+
+#EXTINF:-1 ,HINDI NEWS AAJ TAK Aarna TV
+https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtakhttps/aajtakhttps/aajtakhttps_200/chunklist.m3u8?hdntl=exp=1601536557~acl=!*/2008784/aajtakhttps/*!/payload/yuppTVCom_5_-1_46522e8cea4848da_DE_62.171.128.115/*~data=hdntl~hmac=3809fc6fe983557bdc2fa01c25c5c7c56837622956fd9eb6730bf7a9757de7ee
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,EPIC LIVE Aarna TV
+https://z5ams.akamaized.net/out/v1/71d7807e101d470fbac38441de9c674e/exp=1601535640~acl=%2f*~data=hdntl~hmac=63a4934f1be434117b54c33c93863a8396d9ae84cfdeb1f4e5525507e990a909/index_3.m3u8
+
+
+
+#EXTINF:-1 ,DISCOVERY SCIENCE HINDI Aarna TV
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
+
+#EXTINF:-1 ,ANIMAL PLANET HINDI Aarna TV
+http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC Aarna TV
+https://rose.flixtv.shop/flixstreamer/redscilla/master.m3u8?tv=MTg1LjI0Ni4yMTAuNTA6MjIwMC9SLUVYL0hJTkRJX05BVF9HRU9fSEQtaW4v&hash=8348dbfa96c1e8fd5796df93bcab7cfb1e705695acd64aebcdca1c86bb788a88&et=1601448744
+
+
+
+
+#EXTINF:-1 ,HINDI MUSIC MASTII Aarna TV
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_240p/index.m3u8
+
+
+
+#EXTINF:-1 ,HINDI MUSIC 9X JALWA Aarna TV
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_240p/index.m3u8
+
+
+
+
+#EXTINF:-1 ,HINDI MUSIC ZOOM  FILMY Aarna TV
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_240p/index.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI MUSIC INDIA  FILMY Aarna TV
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_240p/index.m3u8
+
+
+#EXTINF:-1 ,HINDI MUSIC TOP DJ  Aarna TV
+https://m-c09-j2apps.s.llnwi.net/hls/8013.TopDJTV.in_240p/index.m3u8
+
+
+#EXTINF:-1 ,HINDI MOVIES ZEE CLASSIC Aarna TV
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/exp=1601533279~acl=%2f*~data=hdntl~hmac=59a6e51b18cc0dc569d2bd7a122988d229f2eb711485f8b7297dd20900da6713/index_2.m3u8#EXTINF:-1 ,MASTII Aarna
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_240p/index.m3u8
+
+
+
+#EXTINF:-1 ,HINDI MOVIES ZEE CINEMA Aarna TV
+https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/exp=1601533517~acl=%2f*~data=hdntl~hmac=ff362acd28e9760b5349375f39db171e62f8cb7f84d82b6b8360df26146db2f1/index_7.m3u8
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES ZEEANMOL CINEMA Aarna TV
+https://z5ams.akamaized.net/zeeanmol/tracks-v4a1/exp=1601533659~acl=%2f*~data=hdntl~hmac=51128280de5ea50e369c66a724f67092585d3e0634e27b2acc32de8c3f88ca0e/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES UTV MOVIES HINDI Aarna TV
+https://rose.flixtv.shop/flixstreamer/redscilla/master.m3u8?tv=MTg1LjI0Ni4yMTAuNTM6MjIwMC9SLUVYL0hJTkRJX1VUVl9NT1ZJRVMtaW4v&hash=31ac329d10cf786fe947d3d3ef8d24744b4a2c79a10df2a22bab2ab5299e6130&et=1601448573
+
+
+
+#EXTINF:-1 ,HINDI MOVIES UTV HINDI Aarna TV
+https://rose.flixtv.shop/flixstreamer/redscilla/master.m3u8?tv=MTg1LjI0Ni4yMTAuNTM6MjIwMC9SLUVYL0hJTkRJX1VUVl9IRC1pbi8=&hash=16ba71e6de6cad9eb886cde79119a7331de1948964b64064d4d5e2c628f153bf&et=1601448577
+
+
+#EXTINF:-1 ,HINDI MOVIES UTV ACTION Aarna TV
+https://rose.flixtv.shop/flixstreamer/redscilla/master.m3u8?tv=MTg1LjI0Ni4yMTAuNTM6MjIwMC9SLUVYL0hJTkRJX1VUVl9BQ1RJT04taW4v&hash=57326b9d37cf84e91cde0f1a17e47be73091a3a2bcae811e58f924c7ecfb5ce5&et=1601448581
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES SONY MAX 2 Aarna TV
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES SONY WAH Aarna TV
+https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+
+#EXTINF:-1 ,HINDI MOVIES SONY MAX Aarna TV
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+
+#EXTINF:-1 ,HINDI MOVIES AND PICTURES Aarna TV
+https://z5ams.akamaized.net/andpicssd/tracks-v4a1/exp=1601535369~acl=%2f*~data=hdntl~hmac=ea0af0a3f30f11c231903dead2403f0a824aa2ea62c5426fc74707ac96aeb113/mono.m3u8
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES ZEE BOLLYWOOD Aarna TV
+https://z5ams.akamaized.net/classic/tracks-v4a1/exp=1601535757~acl=%2f*~data=hdntl~hmac=63143062e4af2464830ea9a4ff2e77eac572f210afbb26c1e7d1275eb0cd7ed7/mono.m3u8
+
+
+
+#EXTINF:-1 ,HINDI MOVIES ZEE CINEMA Aarna TV
+https://z5ams.akamaized.net/zcinemahd/tracks-v5a1/exp=1601535792~acl=%2f*~data=hdntl~hmac=7bf7b306414315f8e1eeeefe887c09f2f79d5c8e2ab3e554940da938f109f9cf/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES BOLLYWOOD MOVIES Aarna TV
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_240p/index.m3u8
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES MOVIE PLUS Aarna TV
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_240p/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES MANORANJAN TV Aarna TV
+https://m-c048-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in_360p/index.m3u8
+
+
+#EXTINF:-1 ,HINDI MOVIES MAHA MOVIES Aarna TV
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_240p/index.m3u8
+
+
+
+#EXTINF:-1 ,HINDI MOVIES  FILMY Aarna TV
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_240p/index.m3u8
+
+#EXTINF:-1 ,HINDI MOVIES  WOW MOVIES Aarna TV
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_240p/index.m3u8
+
+
+
+
+
+#EXTINF:-1 ,HINDI MOVIES  FILMY Aarna TV
+
+
+
+
