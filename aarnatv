@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Zee Marathi Aarna TV
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/exp=1601540571~acl=%2f*~data=hdntl~hmac=deafbf15a48fc5987d4636884b8a55cf0205baccb0bdd53a0c222facafd98cab/index_24.m3u8
 https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1601452497~exp=1601455497~acl=/*~hmac=bcec869724fef3120e5e8f3f9b3c17e98b5b6f2bb1618213ebb65e5cfde52bfd
-
 
 
 #EXTINF:-1 ,MARATHI NEWS SAAM TV Aarna TV
@@ -12,8 +10,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in_240p/index.m3u8
 
 
 #EXTINF:-1 ,MARATHI NEWS ABP MAJHA Aarna TV
-https://yuppmsleumo2.akamaized.net/hls/live/2008776/abpmajhaweb/abpmajhaweb/abpmajha_200/chunklist.m3u8?hdntl=exp=1601535940~acl=!*/2008776/abpmajhaweb/*!/payload/yuppTVCom_5_-1_82bae7d760f042d9_DE_62.171.128.115/*~data=hdntl~hmac=061aa77f0c4f24271697c74fe5201e5765c604b488a79b842e20c80bbb59af63
-
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in_240p/index.m3u8
 
 #EXTINF:-1 ,MARATHI NEWS DD SAHYADRI Aarna TV
 https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in_360p/index.m3u8
@@ -55,8 +52,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_216p/index_dvr.m3u8
 
 
 #EXTINF:-1 ,DD NEWS Aarna TV
-https://z5ams.akamaized.net/out/v1/bf586d4a6d244818a6d2ce602a7fa49f/exp=1601535462~acl=%2f*~data=hdntl~hmac=82d8af13b61ff6a6ce63519c122b44e0fd8650e64c71b36c94022320e6d34594/index_3.m3u8
-
+https://z5ams.akamaized.net/out/v1/bf586d4a6d244818a6d2ce602a7fa49f/index.m3u8?hdnts=st=1601453062~exp=1601456062~acl=/*~hmac=b5f9150b19efe1b4fac5b667ad214232cc61c27257ac1bf2089a172bef98fdcb
 
 
 
@@ -66,25 +62,16 @@ https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a646
 
 
 #EXTINF:-1 ,BBC NEWS Aarna TV
-https://z5ams.akamaized.net/out/v1/9f144d2623894846a14e3c74182cbcf0/exp=1601535602~acl=%2f*~data=hdntl~hmac=d37904f8d4f43663fb396a879cff065bc7a0269c5dc277a2d7aecc013b3b5d9d/index_7.m3u8
-
+https://z5ams.akamaized.net/out/v1/9f144d2623894846a14e3c74182cbcf0/index.m3u8?hdnts=st=1601453305~exp=1601456305~acl=/*~hmac=d7de3c7508e74dba8b8114a02e2421b75c0f4342f8634c980bd634919a6527f5
 
 
 
 
 #EXTINF:-1 ,HINDI NEWS  INDIA TV Aarna TV
-https://yuppmslukmo.akamaized.net/hls/live/2007562/indiatv/indiatv/indiatv_200/chunklist.m3u8?hdntl=exp=1601536041~acl=!*/indiatv/indiatv/*!/payload/yuppTVCom_5_-1_09b476c540514de1_DE_62.171.128.115/*~data=hdntl~hmac=4b7dc6389bad7071c680c47952c37873856de8fdfd4143bcc0dcf1723a273631
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
 
 
 
-
-#EXTINF:-1 ,HINDI NEWS  NDTV HINDI Aarna TV
-https://yuppmsleumo2.akamaized.net/hls/live/2008775/ndtvhindiweb/ndtvhindiweb/ndtvhindi_200/chunklist.m3u8?hdntl=exp=1601536092~acl=!*/2008775/ndtvhindiweb/*!/payload/yuppTVCom_5_-1_c68d332fa4b54b2e_DE_62.171.128.115/*~data=hdntl~hmac=6d10d5e0e2a851b2b64589e4d3cf2762d485729e9900d639a0c295f72fabf1d0
-
-
-
-#EXTINF:-1 ,HINDI NEWS AAJ TAK Aarna TV
-https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtakhttps/aajtakhttps/aajtakhttps_200/chunklist.m3u8?hdntl=exp=1601536557~acl=!*/2008784/aajtakhttps/*!/payload/yuppTVCom_5_-1_46522e8cea4848da_DE_62.171.128.115/*~data=hdntl~hmac=3809fc6fe983557bdc2fa01c25c5c7c56837622956fd9eb6730bf7a9757de7ee
 
 
 
@@ -95,8 +82,7 @@ https://yuppmsleumo2.akamaized.net/hls/live/2008784/aajtakhttps/aajtakhttps/aajt
 
 
 #EXTINF:-1 ,EPIC LIVE Aarna TV
-https://z5ams.akamaized.net/out/v1/71d7807e101d470fbac38441de9c674e/exp=1601535640~acl=%2f*~data=hdntl~hmac=63a4934f1be434117b54c33c93863a8396d9ae84cfdeb1f4e5525507e990a909/index_3.m3u8
-
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_240p/index.m3u8
 
 
 #EXTINF:-1 ,DISCOVERY SCIENCE HINDI Aarna TV
