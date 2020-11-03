@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 ,Zee Marathi Aarna TV
-https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1601452497~exp=1601455497~acl=/*~hmac=bcec869724fef3120e5e8f3f9b3c17e98b5b6f2bb1618213ebb65e5cfde52bfd
 
 
 #EXTINF:-1 ,MARATHI NEWS SAAM TV Aarna TV
 https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in_240p/index.m3u8
-
-
 
 #EXTINF:-1 ,MARATHI NEWS ABP MAJHA Aarna TV
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in_240p/index.m3u8
@@ -71,16 +67,6 @@ https://z5ams.akamaized.net/out/v1/9f144d2623894846a14e3c74182cbcf0/index.m3u8?h
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 ,EPIC LIVE Aarna TV
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_240p/index.m3u8
 
@@ -93,7 +79,6 @@ http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC Aarna TV
 https://rose.flixtv.shop/flixstreamer/redscilla/master.m3u8?tv=MTg1LjI0Ni4yMTAuNTA6MjIwMC9SLUVYL0hJTkRJX05BVF9HRU9fSEQtaW4v&hash=8348dbfa96c1e8fd5796df93bcab7cfb1e705695acd64aebcdca1c86bb788a88&et=1601448744
-
 
 
 
@@ -110,8 +95,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_240p/index.m3u8
 
 #EXTINF:-1 ,HINDI MUSIC ZOOM  FILMY Aarna TV
 https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_240p/index.m3u8
-
-
 
 
 
@@ -163,9 +146,6 @@ https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_sleng.m3u8
 
 
 
-
-
-
 #EXTINF:-1 ,HINDI MOVIES SONY WAH Aarna TV
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 
@@ -204,8 +184,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_240p/index.m3u8
 
 
 
-
-
 #EXTINF:-1 ,HINDI MOVIES MANORANJAN TV Aarna TV
 https://m-c048-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in_360p/index.m3u8
 
@@ -220,6 +198,10 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_240p/index.m3u8
 
 #EXTINF:-1 ,HINDI MOVIES  WOW MOVIES Aarna TV
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_240p/index.m3u8
+
+
+#EXTINF:-1 ,Zee Marathi Aarna TV
+https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8?hdnts=st=1601452497~exp=1601455497~acl=/*~hmac=bcec869724fef3120e5e8f3f9b3c17e98b5b6f2bb1618213ebb65e5cfde52bfd
 
 
 
