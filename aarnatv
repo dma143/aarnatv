@@ -2,14 +2,15 @@
 
 
 
-#EXTINF:-1 ,MARATHI NEWS SAAM TV Aarna TV
-https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in_240p/index.m3u8
+#EXTINF:-1 ,ABPNews
+https://m-c04-j2apps.s.llnwi.net/hls/7014.ABPNews.in_144p/index.m3u8
 
-#EXTINF:-1 ,MARATHI NEWS ABP MAJHA Aarna TV
-https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in_240p/index.m3u8
+#EXTINF:-1 ,ABP MAJHA
+https://m-c04-j2apps.s.llnwi.net/hls/7016.ABPMajha.in_360p/index.m3u8
 
-#EXTINF:-1 ,MARATHI NEWS DD SAHYADRI Aarna TV
-https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in_360p/index.m3u8
+#EXTINF:-1 ,IndiaTV
+https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
+
 
 #EXTINF:-1 ,MARATHI NEWS ZEE 24 TAAS Aarna TV
 https://z5live1media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-I/dbca569e-cd39-4b19-ab76-03f1294d7cba/1.m3u8
