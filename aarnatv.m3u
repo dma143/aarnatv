@@ -193,7 +193,6 @@ http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=225776&exten
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="Ind
 
-#EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg",IPL 1
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg",IPL 2
